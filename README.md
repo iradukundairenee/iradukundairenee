@@ -1,16 +1,15 @@
-### Hi there 👋
+** Hi! I'm Irenee Iradukunda 👋.** 
 
-<!--
-**iradukundairenee/iradukundairenee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ I am Passionate about using Technology for Social Good and a Lifelong Learner. ✨ 
 
-Here are some ideas to get you started:
+monocle_face More About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- - 🔭 I’m currently working on ... -->
+- 🌱 I’m currently learning next js
+<!-- - 👯 I’m looking to collaborate on ... -->
+- 🤔  Feel free to follow me and ping me on https://twitter.com/IradukundaIre13
+<!-- - 💬 Ask me about ... -->
+<!-- - 📫 How to reach me: ... -->
+<!-- - 😄 Pronouns: ... -->
+<!-- - ⚡ Fun fact: ...  -->
+
