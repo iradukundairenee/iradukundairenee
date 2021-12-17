@@ -1,6 +1,6 @@
 ** Hi! I'm Irenee Iradukunda 👋.** 
 
-✨ I am Passionate about using Technology for Social Good and a Lifelong Learner. ✨ 
+✨ I'm software developer who is Passionate about using Technology  ✨ 
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning next js
