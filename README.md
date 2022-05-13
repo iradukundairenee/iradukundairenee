@@ -12,13 +12,22 @@
 <!-- - ⚡ Fun fact: ...  -->
 
 Skills
+
+
 HTML & CSS,TypeScript, vanilla javascript
+
 React JS & NextJS 
+
 Python | Frappe
+
 node js | express & nest
+
 PostgreSQL & MongoDB & Redis
+
 Rest API
+
 Git 
+
 Scrum / Agile
 
 ![iradukundairenee's GitHub stats](https://github-readme-stats.vercel.app/api?username=iradukundairenee&show_icons=true&theme=radical)
