@@ -12,3 +12,5 @@
 <!-- - ⚡ Fun fact: ...  -->
 ![iradukundairenee's GitHub stats](https://github-readme-stats.vercel.app/api?username=iradukundairenee&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iradukundairenee&hide=javascript,html)](https://github.com/iradukundairenee/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iradukundairenee&langs_count=8)](https://github.com/iradukundairenee/github-readme-stats)
