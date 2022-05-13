@@ -11,3 +11,4 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ...  -->
 ![iradukundairenee's GitHub stats](https://github-readme-stats.vercel.app/api?username=iradukundairenee&show_icons=true&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iradukundairenee&repo=github-readme-stats)](https://github.com/iradukundairenee/github-readme-stats)
