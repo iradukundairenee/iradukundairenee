@@ -10,4 +10,4 @@
 - 📫 You can  reach me on https://linkedin.com/in/irenee-iradukunda-9047231b2
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ...  -->
-<!-- [![Top Langs](https://github.com/iradukundairenee/github-readme-stats) -->
+[![iradukundairenee's GitHub stats](https://github-readme-stats.vercel.app/api?username=iradukundairenee)](https://github.com/iradukundairenee/github-readme-stats)
