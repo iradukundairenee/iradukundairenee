@@ -3,8 +3,9 @@
 ✨ I'm software developer who is Passionate about using Technology  ✨ 
 
 <!-- - 🔭 I’m currently working on ... -->
-<!-- - 🌱 I’m currently learning nest js -->
-<!-- - 👯 I’m looking to collaborate on ... -->
+-🌱 I’m currently learning Devops
+- 👯 I’m looking to collaborate on open source projects
+Pronouns: he
 - 🤔  Feel free to follow me and ping me on https://twitter.com/IradukundaIre13
 <!-- - 💬 Ask me about ... -->
 - 📫 You can  reach me on https://linkedin.com/in/irenee-iradukunda-9047231b2
