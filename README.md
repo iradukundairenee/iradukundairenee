@@ -1,7 +1,9 @@
 ** Hi! I'm Irenee Iradukunda 👋.** 
 
-I'm an experienced software engineer who constantly seeks out innovative solutions to everyday problems.
-In my 2 years in this industry, I've honed my analytical thinking and collaboration skills, and I love working with a team  ✨ 
+I'm an experienced software engineer who constantly seeks out
+innovative solutions to everyday problems.
+In my 2 years in this industry, I've honed my analytical thinking 
+and collaboration skills, and I love working with a team  ✨ 
 
 <!-- - 🔭 I’m currently working on ... -->
 -🌱  I’m currently working on a 3D based project.
