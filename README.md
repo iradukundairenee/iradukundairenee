@@ -6,9 +6,9 @@ In my 4 years in this industry, I've honed my analytical thinking
 and collaboration skills, and I love working with a team  ✨ 
 
 <!-- - 🔭 I’m currently working on ... -->
--🌱  I’m currently working on a 3D based project.
-- 👯 I’m looking to collaborate on open source projects
-- 👯 pronouns he
+<!-- -🌱  I’m currently working on a 3D based project.
+<!-- > - 👯 I’m looking to collaborate on open source projects-->
+<!-- > - 👯 pronouns he -->
 - 🤔  Feel free to follow me and ping me on https://twitter.com/IradukundaIre13
 <!-- - 💬 Ask me about ... -->
 - 📫 You can  reach me on https://linkedin.com/in/irenee-iradukunda-9047231b2
