@@ -5,7 +5,7 @@ innovative solutions to everyday problems.
 In my 4 years in this industry, I've honed my analytical thinking 
 and collaboration skills, and I love working with a team  ✨ 
 
-<!-- - 🔭 I’m currently working on ... -->
+ 🔭 I’m currently Advanced Backend Web Development 
 <!-- -🌱  I’m currently working on a 3D based project.
 <!-- > - 👯 I’m looking to collaborate on open source projects-->
 <!-- > - 👯 pronouns he -->
